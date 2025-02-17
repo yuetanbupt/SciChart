@@ -1,4 +1,4 @@
-# Large-scale Model Benchmarking
+# SciChart
 ## 简介
 待补充
 ## 部署要求
