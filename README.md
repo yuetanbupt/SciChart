@@ -11,6 +11,9 @@ Chart data are widely used in fields like medical and scientific research. For M
 <img src="example_image/examples.png" >
 </div>
 
+## Image Data
+Please download image data to **data/img** from link: https://drive.google.com/file/d/1M3kzYqLK26KLHJIeHx9EjdhId-RFvUig/view?usp=drive_link
+
 ## Requirements
 * Python 3.8+
 * PyTorch 2.0+
