@@ -36,10 +36,10 @@ export API_KEY="your_api_key_here"
 python API.py
 ```
 **Workflow:**  
-1. Select dataset from **data/** directory  
+1. Select dataset from **data/**  
 2. Configure task-specific instructions in instructions.py
 3. Modify the API in designated configuration section
-4. Results output to **output/** directory
+4. Results output to **output/**
 #### 2.2 GPT-acc Evaluation
 ```bash
 python eval_gptacc.py
