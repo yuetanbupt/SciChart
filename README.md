@@ -59,10 +59,6 @@ python eval_relaxedacc.py
 vim instructions.py
 ```
 
-## Citation
-
-If our paper and dataset useful in your research, please consider giving a star :star:
-
 ## Contact Us
 
 Email to yuetan@pku.edu.cn.
