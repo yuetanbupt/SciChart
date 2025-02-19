@@ -61,4 +61,4 @@ vim instructions.py
 
 ## Contact Us
 
-Email to yuetan@pku.edu.cn.
+Email to yuetan@pku.edu.cn
