@@ -12,7 +12,7 @@ Charts play a pivotal role in scientific research, offering a concise and visual
 </div>
 
 ## Image Data
-Please download image data to **data/img** from link: https://drive.google.com/file/d/1M3kzYqLK26KLHJIeHx9EjdhId-RFvUig/view?usp=drive_link
+Please download image data to **data/img** from link: https://drive.google.com/file/d/1M3kzYqLK26KLHJIeHx9EjdhId-RFvUig/view?usp=sharing
 
 ## Requirements
 * Python 3.8+
