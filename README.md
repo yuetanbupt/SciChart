@@ -15,10 +15,10 @@ Charts play a pivotal role in scientific research, offering a concise and visual
 Please download image data to **data/img** from link: https://drive.google.com/file/d/1M3kzYqLK26KLHJIeHx9EjdhId-RFvUig/view?usp=sharing
 
 ## Requirements
-* Python 3.8+
+* Python 3.8.10+
 * PyTorch 2.0+
 * CUDA 11.4+ (★ Required for GPU acceleration)
-* API for GPT services
+* API for proprietary models' services (such as GPT)
 <br>
 
 ## 🛠️ Quick Start
