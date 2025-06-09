@@ -83,7 +83,7 @@ You can view and change the default instructions for each task configuration in 
 vim instructions.py
 ```
 ## 🏆 Benchmark Results
-The main results(BasicQA&ReaQA) of the SciChart.
+The main results (BasicQA & ReaQA) of the SciChart.
 
 | Model         | Open Source | G-acc | R-acc | Avg.  |
 |:--------------|:-----------:|------:|------:|------:|
@@ -108,7 +108,7 @@ WICT, Peking University
 Beijing University of Posts and Telecommunications  
 Nanyang Technological University   
 
-🤗 We sincerely appreciate the open-source community for their valuable resources. The dataset construction process benefited from the academic paper retrieval tools provided by ArXiv, which facilitated the collection of figure samples across multiple domains. Special thanks also go to the contributors of open-source annotation tools, whose work improved the efficiency and quality of our human annotation process.   
+🤗 We sincerely appreciate the contributors of open-source annotation tools, whose work improved the efficiency and quality of our human annotation process.   
 
 🤗 Additionally, we acknowledge the support from the State Key Laboratory of General Artificial Intelligence (SKLGAI), which provided crucial computational resources and academic guidance for this research.
 ## Contact Us
