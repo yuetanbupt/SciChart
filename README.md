@@ -60,7 +60,7 @@ export API_KEY="your_api_key_here"
 ```
 ### 2. Main Module
 #### 2.1 Chart Question Answering (Proprietary Models)
-Chart question-answering tasks are divided into two major categories: `BasicQA` and `ReaQA`, for which different datasets and large models can be selected for evaluation respectively.
+Chart question-answering tasks are divided into two major categories: `BasicQA` and `ReaQA`, for which different datasets and models can be selected for evaluation respectively.
 ```bash
 python API.py
 ```
@@ -102,7 +102,7 @@ Our original data contributions are distributed under the MIT license.
 
 ## 🙌 Contributors and Acknowledgement
 **📊 SciChart is developed by a team consisting of:**  
-Yue Tan, Rui Mao, Xuzhao Shi, Zilong Song, Siyuan Xu, Yu Yan, Ziyuan Liao, Zonghai Hu, Dongyan Zhao 
+Tan Yue, Rui Mao, Xuzhao Shi, Zilong Song, Siyuan Xu, Yu Yan, Ziyuan Liao, Zonghai Hu, Dongyan Zhao 
 
 WICT, Peking University  
 Beijing University of Posts and Telecommunications  
