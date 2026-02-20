@@ -199,7 +199,7 @@ Nanyang Technological University
 
 🤗 We sincerely appreciate the contributors of open-source annotation tools, whose work improved the efficiency and quality of our human annotation process.   
 
-🤗 Additionally, we acknowledge the support from the State Key Laboratory of General Artificial Intelligence (SKLGAI), which provided crucial computational resources and academic guidance for this research.
+🤗 Additionally, we acknowledge the support from the National Engineering Research Center of New Electronic Publishing Technologies, which provided crucial computational resources and academic support for this research.
 ## Contact Us
 Email to yuetan@pku.edu.cn
 
