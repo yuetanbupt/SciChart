@@ -6,7 +6,7 @@ This repository contains the code to evaluate models on SciChart from the paper 
 
 ## 👋 Introduction
 
-Charts play a pivotal role in scientific research, offering a concise and visual way to present complex data. For Multimodal Large Language Models (MLLMs), the ability to comprehend charts is critical, as it requires both visual perception and reasoning that bridges graphical and textual information. However, existing Chart QA datasets are monolingual with simple questions, making current evaluation benchmarks inadequate for the rapid advancements in MLLM performance. Therefore, we propose a multilingual scientific spectral Chart QA dataset, termed SciChart. We design two tasks, basic question answering (BasicQA) and reasoning-based question answering (ReaQA), to evaluate the models' ability to 1) directly extract information from charts, and 2) understand the textual and visual information for reasoning. We build 1,100 ReaQA and over 10,000 BasicQA samples. All samples are manually curated and annotated by human experts. We also conduct extensive experiments with state-of-the-art models to establish SciChart benchmarks. Experimental results show a huge gap between the performance of existing models (Claude-3.7 45.12%) and humans (83.84%).
+Charts play a key role in scientific research, offering a concise and visual way to present complex data. For Multimodal Large Language Models (MLLMs), the ability to comprehend charts is critical, as it requires both visual perception and reasoning that bridges graphical and textual information. However, existing chart question answering (QA) datasets are monolingual with simple questions, making current evaluation benchmarks inadequate for the rapid advancements in MLLM performance. Therefore, we propose a multilingual scientific spectral Chart QA dataset, termed SciChart. We design two tasks, basic question answering (BasicQA) and reasoning-based question answering (ReaQA), to evaluate the models' ability to 1) directly extract information from charts, and 2) understand the textual and visual information for reasoning. We build 1,100 ReaQA and over 10,000 BasicQA samples. All samples are manually curated and annotated by human experts. We also conduct extensive experiments with state-of-the-art models to establish SciChart benchmarks. Experimental results show a huge gap between the performance of existing models (Claude-3.7 45.12%) and humans (83.84%). 
 
 <div align=center>
 <img src="example_image/charts.png">
@@ -186,10 +186,6 @@ The main results (BasicQA & ReaQA) of the SciChart.
 | Claude-3.7-T  | ✗           | 43.64 | 46.60 | 45.12 |
 
 
-## ⚠️ Limitations
-**Evaluation Sensitivity:** Current metrics (including rule-based and LLM-based) can be sensitive to uncontrolled or non-standard outputs (e.g., verbose explanations when a simple number is requested).
- 
-**Domain Scope:** The dataset is strictly focused on scientific spectral charts and may not generalize to other types of statistical plots without further training.
 ## 📜 License
 Our original data contributions are distributed under the MIT license.
 
